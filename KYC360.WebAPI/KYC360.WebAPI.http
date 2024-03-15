@@ -1,0 +1,6 @@
+@KYC360.WebAPI_HostAddress = http://localhost:5263
+
+GET {{KYC360.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
